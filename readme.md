@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![Motor de juegos](assets/img/1.png)
 
@@ -112,3 +113,9 @@ Profesor: Fernán A. Villa-Garzón
 Monitora: Carolina Valencia-García
 Curso: Teoría de Lenguajes de Programación
 Universidad Nacional de Colombia
+=======
+# Readme for documentation
+**installation guides**
+Dependencies:
+*Pygame 20.0.3, Python 2.7*
+>>>>>>> 72d46d0 (For export to windows xp)
